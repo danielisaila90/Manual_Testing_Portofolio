@@ -9,9 +9,13 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 Tools used:Jira, Zephyr Squad, MySQL Workbench
 
+
+
 # Functional specifications
 
 The functional specifications created in JIRA are presented in the story bellow and describe the Emergency Contacts module
+
+![Screenshot Story](https://user-images.githubusercontent.com/122401619/230939925-8efefbd9-97a8-4834-ac30-eb2dcf97289c.png)
 
 
 # 1 Testing section
