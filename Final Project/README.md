@@ -11,7 +11,7 @@ Tools used:Jira, Zephyr Squad, MySQL Workbench
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+The functional specifications created in JIRA are presented in the story bellow and describe the Emergency Contacts module.
 
 
 # 1 Testing section
