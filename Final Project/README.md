@@ -22,11 +22,16 @@ The functional specifications created in JIRA are presented in the story bellow 
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing for the Emergency Contacts module from the OrangeHRM application. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
 #### 1.1.1 Roles assigned to the project and persons allocated
+
+<li> Project Manager - Andrei Sorescu<li>
+     Product Owner - George Stanca
+<li> Software Developer - Paul Ciugudean<li>
+     QA Engineer - Isaila Daniel
 
 
 #### 1.1.2 Entry criteria defined
