@@ -66,9 +66,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ## 1.2 Test Monitoring and Control
 
-It will be done by generating periodic reports that reflect the current status of the test.
 The execution report below was generated after 50% of the test cases executed on 04/03/2023.
-     Test execution By Test Cycle
+     
      
 
 ## 1.3 Test Analysis
