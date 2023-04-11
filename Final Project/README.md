@@ -67,13 +67,21 @@ The plan identifies the items to be tested, the features to be tested, the types
 ## 1.2 Test Monitoring and Control
 
 The execution report below was generated after 50% of the test cases executed on 04/03/2023.
+
+![raport executie monitoring and control](https://user-images.githubusercontent.com/122401619/231222189-95601239-55fd-415b-87bd-f96826466e7e.png)
+
      
      
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the requirements of the Emergency Contacts module.
+
+Test conditions:
+
+- leave the mandatory fields empty and verify that a contact cannot be added.
+- fill data only in mandatory fields and verify that an Emergency Contact is created.
+- fill data for all available fields and verify that an Emergency Contact is created.
 
 ## 1.4 Test Design
 
@@ -81,7 +89,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+-> 
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
