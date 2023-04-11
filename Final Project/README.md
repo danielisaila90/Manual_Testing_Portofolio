@@ -89,7 +89,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> 
+-> [ZFJ-issue-export-04-11-2023-242ac113-0001.xlsx](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11203026/ZFJ-issue-export-04-11-2023-242ac113-0001.xlsx)
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
