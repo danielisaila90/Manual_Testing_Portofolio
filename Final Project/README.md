@@ -86,7 +86,7 @@ Test conditions:
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
+are: Exploratory Testing, GUI Testing, Use Case Testing, 
 
 **Test cases:**
 -> ![test cases photo](https://user-images.githubusercontent.com/122401619/231241532-fc01fb2c-1e11-4bf0-94bf-465418abc7ca.png)
