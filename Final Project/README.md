@@ -52,16 +52,24 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
+* Project risks: - short time allocated for testing, lack of experience of the testing team,test environment unavailable.
+                 - risks can come from financial decisions, project management strategies, project performance, or external sources
+
+* Product risks: - New Developers or Development Teams, who may lack experience and thus pose a higher risk to the existing product
+                 - Tight Schedules, that make people work in a rush and commit more mistakes        
 
 #### 1.1.6 Evaluating entry criteria
+     
+  The entry criteria from the test plan have been met and the next stages of the test process can begin
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+
 
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
+The execution report below was generated after 50% of the test cases executed on 04/03/2023.
+     Test execution By Test Cycle
+     
 
 ## 1.3 Test Analysis
 
