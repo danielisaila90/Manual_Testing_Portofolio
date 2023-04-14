@@ -99,7 +99,8 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+- Cycle Sumary has been created
+- The test cases were added to the cycle summary     
 
 ## 1.6 Test Execution
 
