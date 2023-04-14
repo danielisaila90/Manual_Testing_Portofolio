@@ -89,11 +89,11 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are: Exploratory Testing, GUI Testing, Use Case Testing, 
 
 **Test cases:**
--> ![test cases photo](https://user-images.githubusercontent.com/122401619/231241532-fc01fb2c-1e11-4bf0-94bf-465418abc7ca.png)
+-> [Zephyr Test Steps (Jira) (1).pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11233722/Zephyr.Test.Steps.Jira.1.pdf)
 
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [Zephyr Test Steps (Jira) (1).pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11233722/Zephyr.Test.Steps.Jira.1.pdf)
 
 ## 1.5 Test Implementation
 
