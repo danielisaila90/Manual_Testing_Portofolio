@@ -35,20 +35,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.2 Entry criteria defined
-     - functional specifications are described
-     - roles assigned to the project are allocated
+- functional specifications are described
+- roles assigned to the project are allocated
      
 
 #### 1.1.3 Exit criteria defined
-     - all tests have been executed
-     - deadline has been reached
-     - the defects are insignificant and have a low priority
+- all tests have been executed
+- deadline has been reached
+- the defects are insignificant and have a low priority
      
 
 #### 1.1.4 Test scope
 
-* __Tests in scope: All the functionality described in the specifications in the story must be tested 
-* __Tests not in scope: compatibility testing, performance testing, accessibility testing.
+* Tests in scope: All the functionality described in the specifications in the story must be tested 
+* Tests not in scope: compatibility testing, performance testing, accessibility testing.
 
 #### 1.1.5 Risks detected
 
@@ -79,9 +79,8 @@ The testing process will be executed based on the requirements of the Emergency 
 
 Test conditions:
 
-- leave the mandatory fields empty and verify that a contact cannot be added.
-- fill data only in mandatory fields and verify that an Emergency Contact is created.
-- fill data for all available fields and verify that an Emergency Contact is created.
+ leave the mandatory fields empty and verify that a contact cannot be added.
+ fill data only in mandatory fields and verify that an Emergency Contact is created.- fill data for all available fields and verify that an Emergency Contact is created.
 
 ## 1.4 Test Design
 
