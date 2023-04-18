@@ -102,6 +102,7 @@ The following elements are needed to be ready before the test execution phase be
 
 * Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-04-18-2023.csv](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264390/ZFJ-Cycles-04-18-2023.csv)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [DI-11.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264466/DI-11.pdf)
+[DI-13.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264543/DI-13.pdf)
     *  enter here bug titles
 
 
