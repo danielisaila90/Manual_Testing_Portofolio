@@ -111,10 +111,15 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: ![treceabiliy matrix](https://user-images.githubusercontent.com/122401619/233151384-03c1d3f7-3a38-48c6-97b8-a5296c84ff5b.png)
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* The traceability matrix was generated and can be found here: 
 
--> enter here test execution report/chart
+![treceabiliy matrix](https://user-images.githubusercontent.com/122401619/233151384-03c1d3f7-3a38-48c6-97b8-a5296c84ff5b.png)
+
+[Forward Traceability_19_4_2023.xlsx](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11276010/Forward.Traceability_19_4_2023.xlsx)
+
+* Test execution chart was generated, the final report shows that 2 tests have failed of a total of 6
+
+- A number of 6 test cases were planned for execution and all of them were executed
 
 # 2 SQL section
 
