@@ -121,5 +121,8 @@ The following elements are needed to be ready before the test execution phase be
 
 - A number of 6 test cases were planned for execution and all of them were executed
 
+![test execution completion](https://user-images.githubusercontent.com/122401619/233157895-29802997-537a-4401-92a2-8c7c04e506ab.png)
+
+
 # 2 SQL section
 
