@@ -111,7 +111,7 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
+* The traceability matrix was generated and can be found here: ![treceabiliy matrix](https://user-images.githubusercontent.com/122401619/233151384-03c1d3f7-3a38-48c6-97b8-a5296c84ff5b.png)
 * Test execution chart was generated, the final report shows.... -> describe the final report
 
 -> enter here test execution report/chart
