@@ -126,6 +126,8 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
+https://github.com/danielisaila90/Manual_Testing_Portofolio/blob/main/Final%20Project/Proiect%20final%20Sql.sql
+
 
      
 
