@@ -13,10 +13,9 @@ Tools used:Jira, Zephyr Squad, MySQL Workbench
 
 # Functional specifications
 
-The functional specifications created in JIRA are presented in the story bellow and describe the Emergency Contacts module
+The functional specifications created in JIRA are presented in the epic bellow and describe the Emergency Contacts module
 
-![Screenshot Story](https://user-images.githubusercontent.com/122401619/230939925-8efefbd9-97a8-4834-ac30-eb2dcf97289c.png).
-
+![epic-with-stories](https://user-images.githubusercontent.com/122401619/236310278-7563dc83-3b1f-4b49-94b9-d8937a8aa450.JPG)
 
 # 1 Testing section
 
@@ -66,11 +65,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ## 1.2 Test Monitoring and Control
 
-The execution report below was generated after 50% of the test cases executed on 04/03/2023.
+The execution report below was generated after 60% of the test cases executed on 04/05/2023.
 
-![raport executie monitoring and control](https://user-images.githubusercontent.com/122401619/231222189-95601239-55fd-415b-87bd-f96826466e7e.png)
-
-     
+![test-execution2](https://user-images.githubusercontent.com/122401619/236310622-4db3a085-7565-43f8-8082-590baed23e33.JPG)     
      
 
 ## 1.3 Test Analysis
@@ -101,8 +98,8 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-04-18-2023.csv](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264390/ZFJ-Cycles-04-18-2023.csv)
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [DI-11.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264466/DI-11.pdf)
-[DI-13.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264543/DI-13.pdf)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [OHD-8.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400951/OHD-8.pdf)
+[OHD-7.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400952/OHD-7.pdf)
   
   - Home Telephone is required even though is not marked
      
@@ -113,15 +110,15 @@ The following elements are needed to be ready before the test execution phase be
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: 
 
-![treceabiliy matrix](https://user-images.githubusercontent.com/122401619/233151384-03c1d3f7-3a38-48c6-97b8-a5296c84ff5b.png)
+![matrice-trasabilitate-jira](https://user-images.githubusercontent.com/122401619/236311554-25aec59b-afe5-4a55-b56a-0551f7b08e17.JPG)
 
-[Forward Traceability_19_4_2023.xlsx](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11276010/Forward.Traceability_19_4_2023.xlsx)
+[matrice-trasabilitate.xlsx](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400932/matrice-trasabilitate.xlsx)
 
 * Test execution chart was generated, the final report shows that 2 tests have failed of a total of 6
 
-- A number of 6 test cases were planned for execution and all of them were executed
+- A number of 10 test cases were planned for execution and all of them were executed
 
-![test execution completion](https://user-images.githubusercontent.com/122401619/233157895-29802997-537a-4401-92a2-8c7c04e506ab.png)
+![test report execution](https://user-images.githubusercontent.com/122401619/236311825-2f0e3109-5f4e-41ea-aa72-31720491c91d.JPG)
 
 
 # 2 SQL section
