@@ -97,7 +97,8 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-04-18-2023.csv](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11264390/ZFJ-Cycles-04-18-2023.csv)
+* Test cases are executed on the created test Cycle summary: [ZFJ-Cycles-05-04-2023.csv](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11401053/ZFJ-Cycles-05-04-2023.csv)
+
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [OHD-8.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400951/OHD-8.pdf)
 [OHD-7.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400952/OHD-7.pdf)
   
