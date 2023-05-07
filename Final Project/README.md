@@ -86,7 +86,7 @@ are: Exploratory Testing, GUI Testing, Use Case Testing
 
 
 
-The test cases with steps can be viewed here: [Zephyr Test Steps (Jira) (1).pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11233722/Zephyr.Test.Steps.Jira.1.pdf)
+The test cases with steps can be viewed here: [ZFJ-issue-export-05-06-2023-242ac113-0001.xlsx](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11413900/ZFJ-issue-export-05-06-2023-242ac113-0001.xlsx)
 
 ## 1.5 Test Implementation
 
