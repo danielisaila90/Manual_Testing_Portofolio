@@ -115,7 +115,7 @@ The following elements are needed to be ready before the test execution phase be
 
 [matrice-trasabilitate.xlsx](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400932/matrice-trasabilitate.xlsx)
 
-* Test execution chart was generated, the final report shows that 2 tests have failed of a total of 6
+* Test execution chart was generated, the final report shows that 4 tests have failed of a total of 10
 
 - A number of 10 test cases were planned for execution and all of them were executed
 
