@@ -102,9 +102,9 @@ The following elements are needed to be ready before the test execution phase be
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [OHD-8.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400951/OHD-8.pdf)
 [OHD-7.pdf](https://github.com/danielisaila90/Manual_Testing_Portofolio/files/11400952/OHD-7.pdf)
   
-  - Home Telephone is required even though is not marked
+  - Name / Relationship fields allow numbers or special characters only
      
-  - An Emergency Contact can be created with numbers in "NAME" and "RELATIONSHIP" fields
+  - Duplicated emergency contacts can be added
 
 ## 1.7 Test Completion
 
